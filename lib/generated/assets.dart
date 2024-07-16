@@ -6,11 +6,6 @@ class Assets {
   static const String componentsCartItem = 'lib/components/cart_item.dart';
   static const String componentsShoeTile = 'lib/components/shoe_tile.dart';
   static const String generatedAssets = 'lib/generated/assets.dart';
-  static const String githubImagesFive = 'lib/images/GithubImages/five.jpg';
-  static const String githubImagesFour = 'lib/images/GithubImages/four.jpg';
-  static const String githubImagesOne = 'lib/images/GithubImages/one.jpg';
-  static const String githubImagesThree = 'lib/images/GithubImages/three.jpg';
-  static const String githubImagesTwo = 'lib/images/GithubImages/two.jpg';
   static const String images1 = 'lib/images/1.webp';
   static const String images2 = 'lib/images/2.webp';
   static const String images3 = 'lib/images/3.webp';
@@ -18,6 +13,7 @@ class Assets {
   static const String images5 = 'lib/images/5.webp';
   static const String images6 = 'lib/images/6.webp';
   static const String images7 = 'lib/images/7.webp';
+  static const String imagesGithubImage = 'lib/images/github_image.jpg';
   static const String imagesNikeTp = 'lib/images/nike_tp.png';
   static const String libMain = 'lib/main.dart';
   static const String modelsCart = 'lib/models/cart.dart';
